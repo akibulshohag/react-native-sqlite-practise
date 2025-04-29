@@ -3,7 +3,7 @@
 export const APP_NAME = 'Premium Homes';
 export const TEL_NUMBER = '01789088779';
 export const REVERSE_GEO_CODING_KEY = ''; //Not using locationiq anymore
-export const GOOGLE_PLACE_API_KEY = 'AIzaSyBtL87q-VDNbMQ-v69MQAIVCxfuH5-5oQk';
+export const GOOGLE_PLACE_API_KEY = '';
 export const GOOGLE_PLACE_API_URL =
     'https://maps.googleapis.com/maps/api/place';
 
